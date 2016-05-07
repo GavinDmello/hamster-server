@@ -1,0 +1,26 @@
+{
+  "name": "hamster-server",
+  "version": "1.0.0",
+  "description": "An app which lets you review products,adverts on all fronts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GavinDmello/hamster-server.git"
+  },
+  "keywords": [
+    "image-search"
+  ],
+  "author": "Gavin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GavinDmello/hamster-server/issues"
+  },
+  "homepage": "https://github.com/GavinDmello/hamster-server#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongod": "^1.3.0"
+  }
+}
